@@ -6,3 +6,4 @@ all : shm_rb
 	echo "compile"
 clean :
 	rm shm_rb
+	rm shm_rb.o
