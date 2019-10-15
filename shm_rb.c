@@ -11,7 +11,7 @@
 #define SHM_ID "/mmap-test"
 #define BUFFER_SIZE 4096
 #define SLEEP_NANOS 1000   // 1 micro
-
+/*some test for share memory*/
 typedef struct _Message
 {
     size_t _id;
